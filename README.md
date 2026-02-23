@@ -65,17 +65,17 @@ README.md # Project documentation
 
 ##  How to Run the Project
 
-###  Step 1: Start the Server
 ```bash
 python server.py
 ### Step 2: Run the Client
 ```bash
 python client.py
 
-### Enter Server Details
 
+
+### Enter Server Details
 Provide the following information when prompted:
 
-- **Server IP Address**
-- **Port Number**
-- **File Path to Send**
+- Server IP Address
+- Port Number
+- File Path to Send
